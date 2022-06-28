@@ -1,0 +1,15 @@
+ h1 {
+        color: #27455D;
+
+    }
+    h2,h3 {
+        color: #2D8126;
+    }
+
+    #city{
+        background: #4332D1;
+    }
+    body{
+        text-align: center;
+        background-image: url(ashar.jpg);
+    }
